@@ -10,7 +10,6 @@ jobs:
         # https://docs.github.com/en/actions/reference/runners/github-hosted-runners
         os:
           - windows-2025      # x86_64
-          - windows-11-arm    # aarch64
         qt_ver:
           - 6.1.0
           - 6.2.2
